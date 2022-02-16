@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Biographies
 uid: 1d6b966b-587b-42f3-231e-bd10d145357d
 ---
