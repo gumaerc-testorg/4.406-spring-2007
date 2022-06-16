@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides biographical information about persons covered
+  in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Biographies

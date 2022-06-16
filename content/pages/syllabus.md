@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about sustainable building environments, the course schedule, invited guests, readings,
+  study topics, grading, and attendance.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
