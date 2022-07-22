@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and assignment due
+  dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6c530f01-2a00-e1cc-76fd-a1e6b0ccc08b
 ---
@@ -7,13 +11,13 @@ uid: 6c530f01-2a00-e1cc-76fd-a1e6b0ccc08b
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 SES #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 TOPICS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 KEY DATES
 {{< thclose >}}
 
@@ -40,7 +44,7 @@ WEDNESDAY
 1
 {{< tdclose >}}
 {{< tdopen >}}
-1st day of class
+1{{< sup "st" >}} day of class
 {{< tdclose >}}
 {{< tdopen >}}
 Reading period: No class
