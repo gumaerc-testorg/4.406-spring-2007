@@ -5,6 +5,7 @@ file: /courses/4-406-ecologies-of-construction-spring-2007/fb8adcac98f568a48d330
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec5.pdf
 uid: fb8adcac-98f5-68a4-8d33-06d09265f1c6
 ---
 Lecture notes about urban metabolism.
-
