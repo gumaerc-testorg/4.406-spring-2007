@@ -2,6 +2,7 @@
 content_type: resource
 description: Written assignment.
 file: /courses/4-406-ecologies-of-construction-spring-2007/2af820c253bfdfa3f789c96c0d793f14_assignment1.pdf
+file_size: 43122
 file_type: application/pdf
 learning_resource_types:
 - Assignments
