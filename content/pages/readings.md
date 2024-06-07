@@ -73,7 +73,7 @@ Holling, C. S. "Understanding the Complexity of Economic, Ecological, and Social
 Adaptive capacity and resilience
 {{< tdclose >}}
 {{< tdopen >}}
-Folke, Carl, Steve Carpenter, Thomas Elmqvist, Lance Gunderson, C. S. Holling, Brian Walker, Jan Bengtsson, Fikret Berkes, Johan Colding, Kjell Danell, Malin Falkenmark, Line Gordon, Roger Kasperson, Nils Kautsky, Ann Kinzig, Simon Levin, Karl-Göran Mäler, Fredrik Moberg, Leif Ohlsson, Per Olsson, Elinor Ostrom, Walter Reid, Johan Rockström, Hubert Savenije, and Uno Svedin. "Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformations." _ICSU Series on Science for Sustainable Development_ 3. Scientific Background Paper commissioned by the Environmental Advisory Council of the Swedish Government in preparation for WSSD. Paris: ICSU, 2002. ({{% resource_link "12fff2b3-03fc-42a2-831d-8b583db9a486" "PDF" %}})
+Folke, Carl, Steve Carpenter, Thomas Elmqvist, Lance Gunderson, C. S. Holling, Brian Walker, Jan Bengtsson, Fikret Berkes, Johan Colding, Kjell Danell, Malin Falkenmark, Line Gordon, Roger Kasperson, Nils Kautsky, Ann Kinzig, Simon Levin, Karl-Göran Mäler, Fredrik Moberg, Leif Ohlsson, Per Olsson, Elinor Ostrom, Walter Reid, Johan Rockström, Hubert Savenije, and Uno Svedin. "Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformations." _ICSU Series on Science for Sustainable Development_ 3. Scientific Background Paper commissioned by the Environmental Advisory Council of the Swedish Government in preparation for WSSD. Paris: ICSU, 2002. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.629.3759&rep=rep1&type=pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,17 +93,17 @@ Ecological footprint and resource consumption
 {{< tdopen >}}
 
 
-World Wildlife Fund International, Institute of Zoology, and Global Footprint Network, {{% resource_link "47dc80c7-b3ff-4bf0-a7b3-81a073038ac8" "Living Planet Report 2006" %}}.
+World Wildlife Fund International, Institute of Zoology, and Global Footprint Network, [Living Planet Report 2006](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2006/).
 
 Matthews, Emily. _The Weight of Nations: Material Outflows from Industrial Economies_. Washington, DC: World Resources Institute, 2000. ISBN: 9781569734391.
 
-Schulz, Klaus J., and Joseph A. Briskey. "{{% resource_link "c5f5f3cf-5b6f-4655-ae1c-56777ee28ba5" "The Global Mineral Resource Assessment Project" %}}." U.S. Geological Survey Fact Sheet 53-03, June 2003.
+Schulz, Klaus J., and Joseph A. Briskey. "[The Global Mineral Resource Assessment Project](http://pubs.usgs.gov/fs/fs053-03/)." U.S. Geological Survey Fact Sheet 53-03, June 2003.
 
-Matos, Grecia, and Lorie Wagner. "{{% resource_link "9c0fe429-6ce0-497a-a310-816881eedb68" "Consumption of Materials in the United States, 1900-1995" %}}." _Annual Reviews of Energy and the Environment_ 23 (1998): 107-122.
+Matos, Grecia, and Lorie Wagner. "[Consumption of Materials in the United States, 1900-1995](http://pubs.usgs.gov/annrev/ar-23-107/)." _Annual Reviews of Energy and the Environment_ 23 (1998): 107-122.
 
-Wagner, Lorie A. "{{% resource_link "1e89fe83-d514-4f5f-98d1-f0f4f0ebe189" "Materials in the Economy - Material Flows, Scarcity, and the Environment" %}}." U.S. Geological Survey Circular 1221, February 2002.
+Wagner, Lorie A. "[Materials in the Economy - Material Flows, Scarcity, and the Environment](http://pubs.usgs.gov/circ/2002/c1221/)." U.S. Geological Survey Circular 1221, February 2002.
 
-{{% resource_link "c73be6b5-54e4-4455-bea4-2d23e6ec84ad" "Mathis Wackernagel Video" %}}. Mathis Wackernagel, co-creator of the concept of Ecological Footprint and Executive Director of the Global Footprint Network. A streaming video explanation of the concept and utility of the ecological footprint directly from one of its co-creators.
+[Mathis Wackernagel Video](http://www.metacafe.com/watch/916876/mathis_wackernagel_the_ecological_footprint/). Mathis Wackernagel, co-creator of the concept of Ecological Footprint and Executive Director of the Global Footprint Network. A streaming video explanation of the concept and utility of the ecological footprint directly from one of its co-creators.
 
 
 {{< tdclose >}}
@@ -116,9 +116,9 @@ Global climate change
 {{< tdopen >}}
 
 
-{{% resource_link "a4a1e2cf-311a-40a8-8eb0-4f8ef435e301" "Intergovernmental Panel on Climate Change" %}}. _Climate Change 2007 - The Physical Science Basis_. Cambridge, UK: Cambridge University Press, 2007.
+[Intergovernmental Panel on Climate Change](https://www.ipcc.ch/report/ar4/wg1/). _Climate Change 2007 - The Physical Science Basis_. Cambridge, UK: Cambridge University Press, 2007.
 
-Ford Motor Company. Ford Report on the Business Impact of Climate Change. ({{% resource_link "39c0244b-47f6-4a41-9529-f480a3de35e5" "PDF" %}})
+Ford Motor Company. Ford Report on the Business Impact of Climate Change. ([PDF](https://www.yumpu.com/en/document/view/17902814/ford-report-on-the-business-impact-of-climate-change))
 
 Ruth, Matthias, Brynhildur Davidsdottir, and Anthony Amato. "Climate Change Policies and Capital Vintage Effects: The Cases of US Pulp and Paper, Iron and Steel, and Ethylene." _Journal of Environmental Management_ 70, no. 3 (2004): 235-252.
 
@@ -250,7 +250,7 @@ Material intensity per unit of service (MIPS)
 {{< tdopen >}}
 
 
-Ritthoff, Michael, Holger Rohn, and Christa Liedtke. {{% resource_link "7b506b06-83a7-42e7-bad5-1f6ff810379f" "_Calculating MIPS: Resource Productivity of Products and Services_" %}}. North Rhine-Westphalia, Germany: Wuppertal Institute for Climate, Environment and Energy, 2002. ISBN: 3929944561.
+Ritthoff, Michael, Holger Rohn, and Christa Liedtke. [_Calculating MIPS: Resource Productivity of Products and Services_](http://wupperinst.org/en/publications/details/wi/a/s/ad/584/). North Rhine-Westphalia, Germany: Wuppertal Institute for Climate, Environment and Energy, 2002. ISBN: 3929944561.
 
 Stiller, Hartmut. "Material Intensity of Advanced Composite Materials." Wuppertal Institute for Climate, Environment and Energy, 1999.
 
