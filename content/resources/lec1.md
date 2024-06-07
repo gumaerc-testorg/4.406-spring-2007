@@ -4,6 +4,7 @@ description: Lecture notes about ecological economics, dematerialization, Kuznet
   curve, and an introduction to the various topics that have come to be known as environmental
   economics as well as ecological economics.
 file: /courses/4-406-ecologies-of-construction-spring-2007/6b1aaf2b90561f284eebb6fac6ac4258_lec1.pdf
+file_size: 234556
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
