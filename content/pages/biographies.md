@@ -2,24 +2,22 @@
 content_type: page
 description: This section provides biographical information about persons covered
   in the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Biographies
 uid: 1d6b966b-587b-42f3-231e-bd10d145357d
 ---
+## Arthur Cecil Pigou
 
-Arthur Cecil Pigou
-------------------
-
-[Article](http://www.britannica.com/EBchecked/topic/460259/Arthur-Cecil-Pigou
+\[Article\]([http://www.britannica.com/EBchecked/topic/460259/Arthur-Cecil-Pigou](http://www.britannica.com/EBchecked/topic/460259/Arthur-Cecil-Pigou)  
 )
 
 Born: November 18, 1877 in Isle of Wight, England
 
 Died: March 7, 1959 in Cambridge, Cambridgeshire
 
-Donella Meadows
----------------
+## Donella Meadows
 
 [Article](https://donellameadows.org/donella-meadows-1941-2001/)
 
@@ -27,13 +25,11 @@ Born: March 13, 1941 in Elgin, Illinois
 
 Died: February 20, 2001 in New Hampshire
 
-Dennis Meadows
---------------
+## Dennis Meadows
 
 [Article](http://theoildrum.com/node/6209)
 
-Eugene Odum
------------
+## Eugene Odum
 
 [Article 1](http://ecotopia.org/ecology-hall-of-fame/eugene-odum/)
 
@@ -43,24 +39,21 @@ Born: 1913
 
 Died: 2002
 
-M. King Hubbert
----------------
+## M. King Hubbert
 
 [Article 1](http://www.georgiaencyclopedia.org/articles/geography-environment/eugene-odum-1913-2002)
 
-[Article 2](http://www.hubbertpeak.com/hubbert/monetary.htm)
+[Article 2](https://web.archive.org/web/20070210044522/http://www.hubbertpeak.com/hubbert/monetary.htm)
 
 Born: October 5, 1903 in San Saba, Texas
 
 Died: October 11, 1989
 
-Mathis Wackernagel
-------------------
+## Mathis Wackernagel
 
 [Article 1](http://www.mnforsustain.org/author_wackernagel_mathis.htm)
 
-Rachel Louise Carson
---------------------
+## Rachel Louise Carson
 
 [Article 1](http://www.rachelcarson.org/)
 
@@ -70,8 +63,7 @@ Born: May 27, 1907 in Springdale, Pennsylvania
 
 Died: April 14, 1964 in Silver Spring, Maryland
 
-Roger Revelle
--------------
+## Roger Revelle
 
 [Article 1](http://books.nap.edu/openbook.php?record_id=9649&page=288)
 
@@ -81,8 +73,7 @@ Born: March 7, 1909 in Seattle
 
 Died: July 15, 1991 in San Diego
 
-Simon Smith Kuznets
--------------------
+## Simon Smith Kuznets
 
 [Article 1](http://en.wikipedia.org/wiki/Simon_Kuznets)
 
@@ -92,10 +83,9 @@ Born: April 30, 1901 in Prinsk, Russia
 
 Died: July 8, 1985
 
-William Stanley Jevons
-----------------------
+## William Stanley Jevons
 
-[Article](http://www.britannica.com/EBchecked/topic/303348/William-Stanley-Jevons
+\[Article\]([http://www.britannica.com/EBchecked/topic/303348/William-Stanley-Jevons](http://www.britannica.com/EBchecked/topic/303348/William-Stanley-Jevons)  
 )
 
 Born: September 1, 1835 in Liverpool, UK
