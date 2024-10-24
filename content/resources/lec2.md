@@ -5,7 +5,7 @@ description: Lecture notes about global impacts and measures, various measures u
   ecological footprint and the notion of ?overshoot? as it relates to work in the
   limits of growth (Meadows), resource depletion (Hubbertand Graedel), and degradation
   of biocapacity.
-file: /courses/4-406-ecologies-of-construction-spring-2007/312c21e25feec3d28ec004f3be10ca45_lec2.pdf
+file: /ol-ocw-studio-app/courses/4-406-ecologies-of-construction-spring-2007/312c21e25feec3d28ec004f3be10ca45_lec2.pdf
 file_size: 867142
 file_type: application/pdf
 learning_resource_types:
