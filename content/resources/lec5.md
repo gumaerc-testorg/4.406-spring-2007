@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about urban metabolism.
-file: /ol-ocw-studio-app/courses/4-406-ecologies-of-construction-spring-2007/fb8adcac98f568a48d3306d09265f1c6_lec5.pdf
+file: /courses/4-406-ecologies-of-construction-spring-2007/fb8adcac98f568a48d3306d09265f1c6_lec5.pdf
 file_size: 221909
 file_type: application/pdf
 learning_resource_types:

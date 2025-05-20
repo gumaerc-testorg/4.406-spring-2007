@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Information about the Term Project Proposal assignment.
-file: /ol-ocw-studio-app/courses/4-406-ecologies-of-construction-spring-2007/b3d324f297fcd09633275b5ae49a1d7e_projectproposal.pdf
+file: /courses/4-406-ecologies-of-construction-spring-2007/b3d324f297fcd09633275b5ae49a1d7e_projectproposal.pdf
 file_size: 28284
 file_type: application/pdf
 learning_resource_types:
