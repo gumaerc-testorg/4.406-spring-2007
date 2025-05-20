@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes about ecology, ecosystem, industrial ecology, and the historical
   and intellectual link between the development of the field of ecology and the environmental
   movement resulting in an examination of the emerging field of industrial ecology.
-file: /ol-ocw-studio-app/courses/4-406-ecologies-of-construction-spring-2007/37cda8156de1e783e5f0324c170f7244_lec3.pdf
+file: /courses/4-406-ecologies-of-construction-spring-2007/37cda8156de1e783e5f0324c170f7244_lec3.pdf
 file_size: 299924
 file_type: application/pdf
 learning_resource_types:
