@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Information about the Term Project assignment.
-file: /courses/4-406-ecologies-of-construction-spring-2007/f28c7b7ad403432ee21f71a67ecbba5e_project.pdf
+file: /ol-ocw-studio-app/courses/4-406-ecologies-of-construction-spring-2007/f28c7b7ad403432ee21f71a67ecbba5e_project.pdf
 file_size: 33177
 file_type: application/pdf
 learning_resource_types:
