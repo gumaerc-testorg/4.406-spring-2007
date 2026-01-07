@@ -41,7 +41,7 @@ Holling, C. S. "Understanding the Complexity of Economic, Ecological, and Social
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Adaptive capacity and resilience
 {{< tdclose >}}{{< tdopen >}}
-Folke, Carl, Steve Carpenter, Thomas Elmqvist, Lance Gunderson, C. S. Holling, Brian Walker, Jan Bengtsson, Fikret Berkes, Johan Colding, Kjell Danell, Malin Falkenmark, Line Gordon, Roger Kasperson, Nils Kautsky, Ann Kinzig, Simon Levin, Karl-Göran Mäler, Fredrik Moberg, Leif Ohlsson, Per Olsson, Elinor Ostrom, Walter Reid, Johan Rockström, Hubert Savenije, and Uno Svedin. {{% resource_link "f5bff90e-a86d-402a-81f3-d68f6388eb11" "\"Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformations.\"" %}} *ICSU Series on Science for Sustainable Development* 3. Scientific Background Paper commissioned by the Environmental Advisory Council of the Swedish Government in preparation for WSSD. Paris: ICSU, 2002.
+Folke, Carl, Steve Carpenter, Thomas Elmqvist, Lance Gunderson, C. S. Holling, Brian Walker, Jan Bengtsson, Fikret Berkes, Johan Colding, Kjell Danell, Malin Falkenmark, Line Gordon, Roger Kasperson, Nils Kautsky, Ann Kinzig, Simon Levin, Karl-Göran Mäler, Fredrik Moberg, Leif Ohlsson, Per Olsson, Elinor Ostrom, Walter Reid, Johan Rockström, Hubert Savenije, and Uno Svedin. ["Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformations."](https://pubmed.ncbi.nlm.nih.gov/12374053/) *ICSU Series on Science for Sustainable Development* 3. Scientific Background Paper commissioned by the Environmental Advisory Council of the Swedish Government in preparation for WSSD. Paris: ICSU, 2002.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 The IPAT equation
 {{< tdclose >}}{{< tdopen >}}
@@ -50,25 +50,25 @@ Chertow, Marian R. "The IPAT Equation and Its Variants: Changing Views of Techno
 Ecological footprint and resource consumption
 {{< tdclose >}}{{< tdopen >}}
 
-World Wildlife Fund International, Institute of Zoology, and Global Footprint Network, {{% resource_link "286d61e2-67bb-49e3-beef-d334cca52c59" "Living Planet Report 2006" %}}.
+World Wildlife Fund International, Institute of Zoology, and Global Footprint Network, [Living Planet Report 2006](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2006/).
 
 Matthews, Emily. *The Weight of Nations: Material Outflows from Industrial Economies*. Washington, DC: World Resources Institute, 2000. ISBN: 9781569734391.
 
-Schulz, Klaus J., and Joseph A. Briskey. "{{% resource_link "a990cebd-262e-4ad3-b90e-6e0e3abd9d47" "The Global Mineral Resource Assessment Project" %}}." U.S. Geological Survey Fact Sheet 53-03, June 2003.
+Schulz, Klaus J., and Joseph A. Briskey. "[The Global Mineral Resource Assessment Project](http://pubs.usgs.gov/fs/fs053-03/)." U.S. Geological Survey Fact Sheet 53-03, June 2003.
 
-Matos, Grecia, and Lorie Wagner. "{{% resource_link "561ce1b9-a95c-4a7d-9d79-4508c27b2765" "Consumption of Materials in the United States, 1900-1995" %}}." *Annual Reviews of Energy and the Environment* 23 (1998): 107-122.
+Matos, Grecia, and Lorie Wagner. "[Consumption of Materials in the United States, 1900-1995](http://pubs.usgs.gov/annrev/ar-23-107/)." *Annual Reviews of Energy and the Environment* 23 (1998): 107-122.
 
-Wagner, Lorie A. "{{% resource_link "ecad0740-d8a8-4c4c-b034-eb5c9b301c78" "Materials in the Economy - Material Flows, Scarcity, and the Environment" %}}." U.S. Geological Survey Circular 1221, February 2002.
+Wagner, Lorie A. "[Materials in the Economy - Material Flows, Scarcity, and the Environment](http://pubs.usgs.gov/circ/2002/c1221/)." U.S. Geological Survey Circular 1221, February 2002.
 
-{{% resource_link "b0483a3b-6d52-4dbe-bf75-c14119f02643" "Mathis Wackernagel video (YouTube)" %}}. Mathis Wackernagel, co-creator of the concept of Ecological Footprint and Executive Director of the Global Footprint Network. A streaming video explanation of the concept and utility of the ecological footprint directly from one of its co-creators.
+[Mathis Wackernagel video (YouTube)](https://www.youtube.com/watch?v=94tYMWz_Ia4). Mathis Wackernagel, co-creator of the concept of Ecological Footprint and Executive Director of the Global Footprint Network. A streaming video explanation of the concept and utility of the ecological footprint directly from one of its co-creators.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Global climate change
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "444fd353-f927-4ffa-936e-f1456b3f0d60" "Intergovernmental Panel on Climate Change" %}}. *Climate Change 2007 - The Physical Science Basis*. Cambridge, UK: Cambridge University Press, 2007.
+[Intergovernmental Panel on Climate Change](https://www.ipcc.ch/report/ar4/wg1/). *Climate Change 2007 - The Physical Science Basis*. Cambridge, UK: Cambridge University Press, 2007.
 
-Ford Motor Company. Ford Report on the Business Impact of Climate Change. ({{% resource_link "ab28686c-83dd-4be0-be47-530411e7650b" "PDF" %}})
+Ford Motor Company. Ford Report on the Business Impact of Climate Change. ([PDF](https://www.yumpu.com/en/document/view/17902814/ford-report-on-the-business-impact-of-climate-change))
 
 Ruth, Matthias, Brynhildur Davidsdottir, and Anthony Amato. "Climate Change Policies and Capital Vintage Effects: The Cases of US Pulp and Paper, Iron and Steel, and Ethylene." *Journal of Environmental Management* 70, no. 3 (2004): 235-252.
 
@@ -146,7 +146,7 @@ Lewis, Helen, John Gertsakis, Tim Grant, Nicola Morelli, and Andrew Sweatman. "I
 Material intensity per unit of service (MIPS)
 {{< tdclose >}}{{< tdopen >}}
 
-Ritthoff, Michael, Holger Rohn, and Christa Liedtke. {{% resource_link "b665a17d-b1f9-4f1c-aece-db4ce186cd3f" "*Calculating MIPS: Resource Productivity of Products and Services*" %}}. North Rhine-Westphalia, Germany: Wuppertal Institute for Climate, Environment and Energy, 2002. ISBN: 3929944561.
+Ritthoff, Michael, Holger Rohn, and Christa Liedtke. [*Calculating MIPS: Resource Productivity of Products and Services*](http://wupperinst.org/en/publications/details/wi/a/s/ad/584/). North Rhine-Westphalia, Germany: Wuppertal Institute for Climate, Environment and Energy, 2002. ISBN: 3929944561.
 
 Stiller, Hartmut. "Material Intensity of Advanced Composite Materials." Wuppertal Institute for Climate, Environment and Energy, 1999.
 
